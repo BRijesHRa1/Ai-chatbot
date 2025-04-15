@@ -1,6 +1,8 @@
 # AI Chatbot
 
 A Node.js chat application that uses Ollama API. Built for learning purposes.
+<img width="1120" alt="Screenshot 2025-04-15 at 12 47 51 PM" src="https://github.com/user-attachments/assets/f21a5e54-a46d-4a89-a743-3578c1c9bd9d" />
+
 
 ## Requirements
 
